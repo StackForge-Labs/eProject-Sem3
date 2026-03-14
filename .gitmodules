@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/StackForge-Labs/Project-sem3-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/StackForge-Labs/Project-sem3-frontend.git
